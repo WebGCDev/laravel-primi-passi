@@ -8,7 +8,14 @@
 </head>
 
 <body>
-    <h1>Hello World</h1>
+    <header>
+        <ul>
+            <li><a href="home1">Accedi alla Home 1</a></li>
+            <li><a href="home2">Accedi alla Home 2</a></li>
+            <li><a href="home3">Accedi alla Home 3</a></li>
+            <li><a href="home4">Accedi alla Home 4</a></li>
+        </ul>
+    </header>
 </body>
 
 </html>
